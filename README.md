@@ -1,4 +1,4 @@
-# CarPark Management System 🅿️
+# CarPark System 
 
 A Python-based simulation of a smart car park system, demonstrating object-oriented programming, abstraction, and basic software design principles.
 
@@ -58,4 +58,14 @@ This project simulates a car park with sensors, displays, and logging. It shows 
 - Shows messages and current car park data
 - Updates automatically when `CarPark` state changes
 
----
+
+## How to Run
+
+1. Clone the repository
+2. Open the project folder
+3. Run the main Python file
+4. Follow terminal prompts to test the program
+
+
+## example of the app
+![example outputs](/images/output_of_main.png)
